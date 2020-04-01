@@ -35,13 +35,17 @@ The cloned model can be accessed [in this GitHub repository](https://github.com/
 ## Some Screen Captures
 
 **Header**
+
 ![Header Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/header.png?raw=true)
 
 **PostList**
+
 ![PostList Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/postlist.png?raw=true)
 
 **Post**
+
 ![Post Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/post.png?raw=true)
 
 **Comment**
+
 ![Comment Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/comment.png?raw=true)
