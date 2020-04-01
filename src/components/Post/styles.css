@@ -1,0 +1,60 @@
+.post-container {
+  padding: 20px;
+  
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.133916);
+  border-radius: 4px;
+}
+
+.post-header {
+  display: flex;
+  align-items: center;  
+}
+
+.post-header img {
+  height: 32px;
+  width: 32px;
+  border-radius: 16px;
+  
+  margin-right: 10px;
+}
+
+.post-profile {
+  display: flex;
+  flex-direction: column;
+}
+
+.post-profile span {
+  line-height: 18px;
+  font-size: 14px;
+  color: #4a4a4a;
+}
+
+.post-profile small {
+  line-height: 14px;
+  font-size: 11px;
+  color: #9a9a9a;
+}
+
+.post-container p {
+  margin-top: 15px;
+
+  line-height: 22px;
+  font-size: 14px;
+}
+
+.post-container hr {
+  margin: 20px 0;
+
+  border: none;
+  background-color: #eee;
+  height: 1px;
+}
+
+.post-container li:last-child {
+  margin-bottom: 0;
+}

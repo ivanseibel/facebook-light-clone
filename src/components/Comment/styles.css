@@ -1,0 +1,27 @@
+.comment-container {
+  list-style: none;
+  display: flex;
+  align-items: flex-start;
+}
+
+.comment-container img {
+  width: 28px; 
+  height: 28px;
+  margin-right: 10px;
+
+  flex-shrink: 0;
+  border-radius: 16px;
+}
+
+.comment-container p {
+  margin: 0;
+  background-color: #eee;
+  border-radius: 20px;
+  padding: 10px 15px;
+
+  flex-grow: 1;
+}
+
+.comment-container p strong {
+  margin-right: 5px;
+}
