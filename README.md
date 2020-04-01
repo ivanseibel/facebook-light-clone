@@ -1,12 +1,16 @@
 # Facebook Light Clone
 
+## Description
+
+This clone app is a challenge that was proposed on GoStack 10.0 bootcamp about Node.js, ReactJS and React Native, offered by Rocketseat.
+
 ## Objectives
 
 - Understand how to apply css styles to ReactJS components.
 - Understand how flexbox layouts can be used to construct dynamic interfaces with ReactJS components.
 - Practice css knowledges cloning a light layout that mimic the Facebook timeline.
 
-## Description
+## App Composition
 
 This application is composed by 4 components: Header, PostList, Post and Comment.
 
@@ -40,20 +44,14 @@ In the bottom of the card there is a list of comments, where the data of each co
 
 The cloned model can be accessed [in this GitHub repository](https://github.com/Rocketseat/bootcamp-gostack-desafio-04).
 
-## Some Screen Captures
+## Screen Capture
 
-**Header**
+**Header Component** (red)
 
-![Header Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/header.png?raw=true)
+**PostList Component** (blue)
 
-**PostList**
+**Post Component** (green)
 
-![PostList Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/postlist.png?raw=true)
+**Comment Component** (black)
 
-**Post**
-
-![Post Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/post.png?raw=true)
-
-**Comment**
-
-![Comment Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/comment.png?raw=true)
+![Comment Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/screen-capture.png?raw=true)
