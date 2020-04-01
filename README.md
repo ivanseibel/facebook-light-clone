@@ -8,7 +8,7 @@
 
 ## Description
 
-This application is composed by 4 components:
+This application is composed by 4 components: Header, PostList, Post and Comment.
 
 ### Header
 
@@ -28,11 +28,11 @@ First are rendered the post data, like author avatar, author name, post date and
 
 In the bottom of the card there is a list of comments, where the data of each comment is transmitted to the Comment component.
 
-### Facebook Light Page Model
+## Facebook Light Page Model
 
 The cloned model can be accessed [in this GitHub repository](https://github.com/Rocketseat/bootcamp-gostack-desafio-04).
 
-### Some Screen Captures
+## Some Screen Captures
 
 **Header**
 ![Header Component](https://github.com/ivanseibel/assets/blob/master/img/facebook-light-clone/header.png?raw=true)
