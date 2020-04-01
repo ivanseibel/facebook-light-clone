@@ -28,6 +28,14 @@ First are rendered the post data, like author avatar, author name, post date and
 
 In the bottom of the card there is a list of comments, where the data of each comment is transmitted to the Comment component.
 
+## Tools and Extensions used in this project
+
+- Webpack
+- Babel
+- Webpack Dev Server
+- ReactJS
+- JSON Loader
+
 ## Facebook Light Page Model
 
 The cloned model can be accessed [in this GitHub repository](https://github.com/Rocketseat/bootcamp-gostack-desafio-04).
