@@ -4,7 +4,7 @@
       "id": 1,
       "author": {
         "name": "John Wayne",
-        "avatar": "http://localhost:8080/bbeefb543f08703d7c519755052aab30.jpeg"
+        "avatar": "http://localhost:8080/assets/0.jpeg"
       },
       "date": "04 Jun 2019",
       "content": "Hi guys,\n\nI am looking for an application to hit the 6 numbers of the lottery, could someone help me?",
@@ -13,7 +13,7 @@
           "id": 1,
           "author": {
             "name": "Bruce Lee",
-            "avatar": "http://localhost:8080/32a718e889f69889b064681f8f02e104.jpeg"
+            "avatar": "http://localhost:8080/assets/1.jpeg"
           },
           "content": "Of course I know, there is an application that I use whenever I want to make easy money."
         }
@@ -23,7 +23,7 @@
       "id": 2,
       "author": {
         "name": "MacGyver",
-        "avatar": "http://localhost:8080/e131d65ddf922a10c44759d21a339096.jpeg"
+        "avatar": "http://localhost:8080/assets/2.jpeg"
       },
       "date": "04 Jun 2019",
       "content": "Hey, how are you guys? \n\nI also want this application of lottery numbers, I need to pay some bills late, can you help me?",
@@ -32,7 +32,7 @@
           "id": 1,
           "author": {
             "name": "Elizabeth II",
-            "avatar": "http://localhost:8080/1b9bcb2b15825b779e49891cfa1063c7.jpeg"
+            "avatar": "http://localhost:8080/assets/3.jpeg"
           },
           "content": "Ask to Google!"
         },
@@ -40,7 +40,7 @@
           "id": 2,
           "author": {
             "name": "Charles Bronson",
-            "avatar": "http://localhost:8080/3398b631ca82e157ddb3c4b3823b1b2c.jpeg"
+            "avatar": "http://localhost:8080/assets/4.jpeg"
           },
           "content": "Hello, my dear! Don't you think that if there was such an app, everyone would already be using it to get rich with the lottery?"
         }
@@ -50,7 +50,7 @@
       "id": 3,
       "author": {
         "name": "John Wayne",
-        "avatar": "http://localhost:8080/bbeefb543f08703d7c519755052aab30.jpeg"
+        "avatar": "http://localhost:8080/assets/0.jpeg"
       },
       "date": "04 Jun 2019",
       "content": "Hi guys,\n\nI am looking for an application to hit the 6 numbers of the lottery, could someone help me?",
@@ -59,7 +59,7 @@
           "id": 1,
           "author": {
             "name": "Bruce Lee",
-            "avatar": "http://localhost:8080/32a718e889f69889b064681f8f02e104.jpeg"
+            "avatar": "http://localhost:8080/assets/1.jpeg"
           },
           "content": "Of course I know, there is an application that I use whenever I want to make easy money."
         }
@@ -69,7 +69,7 @@
       "id": 4,
       "author": {
         "name": "MacGyver",
-        "avatar": "http://localhost:8080/e131d65ddf922a10c44759d21a339096.jpeg"
+        "avatar": "http://localhost:8080/assets/2.jpeg"
       },
       "date": "04 Jun 2019",
       "content": "Hey, how are you guys? \n\nI also want this application of lottery numbers, I need to pay some bills late, can you help me?",
@@ -78,7 +78,7 @@
           "id": 1,
           "author": {
             "name": "Elizabeth II",
-            "avatar": "http://localhost:8080/1b9bcb2b15825b779e49891cfa1063c7.jpeg"
+            "avatar": "http://localhost:8080/assets/3.jpeg"
           },
           "content": "Ask to Google!"
         },
@@ -86,7 +86,7 @@
           "id": 2,
           "author": {
             "name": "Charles Bronson",
-            "avatar": "http://localhost:8080/3398b631ca82e157ddb3c4b3823b1b2c.jpeg"
+            "avatar": "http://localhost:8080/assets/4.jpeg"
           },
           "content": "Hello, my dear! Don't you think that if there was such an app, everyone would already be using it to get rich with the lottery?"
         }
